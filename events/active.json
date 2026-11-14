@@ -1,0 +1,52 @@
+{
+  "slug": "star-night-restaurant-catering-and-events-val",
+  "name": "Star Night Restaurant, Catering and Events",
+  "shortName": "Star Night Restaurant",
+  "descriptor": "Catering & Events",
+  "address": "Vallapuzha, Keralam 679336",
+  "area": "Vallapuzha",
+  "city": "Vallapuzha",
+  "district": "Palakkad",
+  "region": "Kerala",
+  "postalCode": "679336",
+  "geo": {
+    "lat": 10.838654199999999,
+    "lng": 76.24992340000001
+  },
+  "mapsLink": "https://maps.google.com/?cid=1505858727885860924",
+  "phone": "+91 90489 46904",
+  "whatsapp": "919048946904",
+  "hours": "Open 9 am – 11:30 pm · all days",
+  "opens": "09:00",
+  "closes": "23:30",
+  "rating": 3.8,
+  "reviewCount": 382,
+  "reviews": [
+    {
+      "name": "Anshida K",
+      "rating": 5,
+      "quote": "Visited Star Night Restaurant recently and had a really good experience. The restaurant is clean, spacious, and has a pleasant ambience that's perfect for families and friends. The seating is comfortable, and the overall atmosphere is calm and welcoming. The food was fresh, tasty, and served in good portions."
+    },
+    {
+      "name": "Girish Nair",
+      "rating": 5,
+      "quote": "I have been here to take away food. Mandi Biriyani and other arabian cousines are famous here. However, this hotel won't disappoint a vegetarian too."
+    },
+    {
+      "name": "RAMSHAD NELLAYA",
+      "rating": 5,
+      "quote": "Star Night has truly outdone itself with its recent renovation! 🎉 The new theme and ambiance are absolutely stunning, creating a perfect setting for a great dining experience. 🍽️✨ The transformation is impressive, giving the place a fresh and inviting vibe."
+    },
+    {
+      "name": "Saran Udayakumar",
+      "rating": 4,
+      "quote": "A good place to dine in and take away. They also deliver food for free. Specialists in biryani, ghee rice, mandi, porotta, alfaham, tandoori, Tikka, shawarma & broast. May be a bit crowded in late evenings. UPI payments can be done."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://star-night-restaurant-catering-and.vercel.app"
+}
